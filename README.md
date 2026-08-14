@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=180&section=header&text=ROCHITA%20GUDE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=60&descSize=16"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ROCHITA%20GUDE&fontSize=45&fontColor=ffffff&color=gradient" width="100%"/>
+</p>
 
 # 👋 Hey, I'm Rochita Gude
 
