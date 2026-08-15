@@ -1,37 +1,62 @@
-
 <!-- ========================================================= -->
 <!--                 ROCHITA GUDE | GITHUB                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ROCHITA%20GUDE&fontSize=45&fontColor=ffffff&color=gradient" width="100%"/>
+<!-- ========================================================= -->
+<!--                    ANIMATED HERO                         -->
+<!-- ========================================================= -->
+
+<img
+  src="./assets/coding.gif"
+  width="100%"
+  alt="Rochita coding in a pixel art workspace"
+/>
+
+<br><br>
+
+<h1>👋 Hey, I'm Rochita Gude</h1>
+
+<h3>Computer Science (Data Science) Undergraduate</h3>
+
+<p>
+  <b>Software Developer</b>
+  &nbsp;•&nbsp;
+  <b>AI Explorer</b>
+  &nbsp;•&nbsp;
+  <b>Data Science Enthusiast</b>
 </p>
-
-# 👋 Hey, I'm Rochita Gude
-
-### `Computer Science (Data Science) Undergraduate`
-
-**Software Developer** • **AI Explorer** • **Data Science Enthusiast**
 
 <br>
 
 <a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://linkedin.com/in/rochita-gude">
-<img src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:rochitagude@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rochita-06&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=rochita-06&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
@@ -43,15 +68,27 @@
 
 🎓 Computer Science (Data Science) student at **VNR VJIET**
 
+<br>
+
 💻 Building full-stack and AI-powered applications
+
+<br>
 
 🤖 Exploring Machine Learning and intelligent systems
 
+<br>
+
 📊 Interested in Data Analytics and Visualization
+
+<br>
 
 🌐 Developing modern web applications
 
+<br>
+
 🧩 Practicing Data Structures & Algorithms
+
+<br>
 
 🚀 Always learning, building and experimenting
 
@@ -63,13 +100,83 @@
 
 <div align="center">
 
-| 💻 Software Engineering | 🤖 AI & Data Science | 🌐 Full-Stack Development |
-|:---:|:---:|:---:|
-| Data Structures & Algorithms | Machine Learning | React.js |
-| OOP | Data Analytics | Next.js |
-| DBMS | Exploratory Data Analysis | Node.js |
-| Problem Solving | Data Visualization | REST APIs |
-| Git & GitHub | Feature Engineering | Responsive UI |
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Software Engineering
+
+Data Structures & Algorithms
+
+<br>
+
+Object-Oriented Programming
+
+<br>
+
+DBMS
+
+<br>
+
+Problem Solving
+
+<br>
+
+Git & GitHub
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI & Data Science
+
+Machine Learning
+
+<br>
+
+Data Analytics
+
+<br>
+
+Exploratory Data Analysis
+
+<br>
+
+Data Visualization
+
+<br>
+
+Feature Engineering
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Full-Stack Development
+
+React.js
+
+<br>
+
+Next.js
+
+<br>
+
+Node.js
+
+<br>
+
+REST APIs
+
+<br>
+
+Responsive UI
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -118,26 +225,36 @@
 <br><br>
 
 `Data Preprocessing`
-• `EDA`
-• `Supervised Learning`
-• `Unsupervised Learning`
+&nbsp;•&nbsp;
+`EDA`
+&nbsp;•&nbsp;
+`Supervised Learning`
+&nbsp;•&nbsp;
+`Unsupervised Learning`
 
-<br>
+<br><br>
 
 `Neural Networks`
-• `Clustering`
-• `Feature Engineering`
-• `Model Evaluation`
+&nbsp;•&nbsp;
+`Clustering`
+&nbsp;•&nbsp;
+`Feature Engineering`
+&nbsp;•&nbsp;
+`Model Evaluation`
 
 ---
 
 ## 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
 
 <br><br>
 
-`Google Colab` • `Tableau` • `Power BI`
+`Google Colab`
+&nbsp;•&nbsp;
+`Tableau`
+&nbsp;•&nbsp;
+`Power BI`
 
 </div>
 
@@ -158,8 +275,9 @@
 
 <br><br>
 
-A full-stack AI productivity platform integrating webcam-based fatigue detection,
-Pomodoro sessions, task management, analytics, and an AI assistant.
+A productivity platform designed to detect fatigue using webcam-based
+computer vision while combining task management, Pomodoro sessions,
+analytics and productivity tracking.
 
 <br><br>
 
@@ -170,18 +288,25 @@ Pomodoro sessions, task management, analytics, and an AI assistant.
 <code>React.js</code>
 <code>TypeScript</code>
 <code>Tailwind CSS</code>
-<code>MediaPipe</code>
 
 <br><br>
 
+<code>MediaPipe</code>
+<code>OpenCV</code>
 <code>Node.js</code>
+
+<br><br>
+
 <code>PostgreSQL</code>
 <code>Vite</code>
 
 <br><br>
 
 <a href="https://github.com/rochita-06/SleepSense">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/VIEW%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"
+  alt="SleepSense Repository"
+/>
 </a>
 
 </td>
@@ -194,8 +319,9 @@ Pomodoro sessions, task management, analytics, and an AI assistant.
 
 <br><br>
 
-A real-time cybersecurity dashboard designed to monitor threats,
-network activity, security alerts and cyber threat insights.
+A cybersecurity dashboard designed to visualize threats,
+network activity, security alerts and cyber threat intelligence
+through an interactive interface.
 
 <br><br>
 
@@ -205,12 +331,87 @@ network activity, security alerts and cyber threat insights.
 
 <code>React.js</code>
 <code>JavaScript</code>
+
+<br><br>
+
 <code>Data Visualization</code>
+<code>REST APIs</code>
 
 <br><br><br>
 
+<a href="https://github.com/rochita-06/cyber-threat-dashboard-roro">
+<img
+  src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="Cyber Threat Dashboard Repository"
+/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Resume Screening</h3>
+
+<b>Candidate Screening & Shortlisting Automation</b>
+
+<br><br>
+
+An AI-powered system designed to analyze resumes,
+extract relevant information and assist with automated
+candidate shortlisting.
+
+<br><br>
+
+<code>Python</code>
+<code>Machine Learning</code>
+<code>NLP</code>
+
+<br><br>
+
+<a href="https://github.com/rochita-06/AI-Powered-Resume-Screening-and-Candidate-Shortlisting-Automation">
+<img
+  src="https://img.shields.io/badge/VIEW%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"
+  alt="AI Resume Screening Repository"
+/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Autonomous Fraud Investigation</h3>
+
+<b>Agentic RAG & Graph Intelligence</b>
+
+<br><br>
+
+An intelligent fraud investigation system combining
+agentic workflows, retrieval-augmented generation,
+graph intelligence and event-driven automation.
+
+<br><br>
+
+<code>Python</code>
+<code>LangGraph</code>
+<code>RAG</code>
+
+<br><br>
+
+<code>FAISS</code>
+<code>Neo4j</code>
+<code>n8n</code>
+
+<br><br>
+
 <a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+ />
 </a>
 
 </td>
@@ -226,13 +427,25 @@ network activity, security alerts and cyber threat insights.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="GitHub Stats"
+/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true"/>
+<img
+  width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -242,7 +455,11 @@ network activity, security alerts and cyber threat insights.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rochita-06&theme=tokyo-night&hide_border=true&area=true&custom_title=Rochita%20Gude%27s%20Contribution%20Activity"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rochita-06&theme=tokyo-night&hide_border=true&area=true&custom_title=Rochita%20Gude%27s%20Contribution%20Activity"
+  width="95%"
+  alt="Contribution Activity"
+/>
 
 </div>
 
@@ -252,7 +469,10 @@ network activity, security alerts and cyber threat insights.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rochita-06/rochita-06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/rochita-06/rochita-06/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -262,7 +482,11 @@ network activity, security alerts and cyber threat insights.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+  width="90%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -273,6 +497,7 @@ network activity, security alerts and cyber threat insights.
 <div align="center">
 
 <table>
+
 <tr>
 <th>Certification</th>
 <th>Organization</th>
@@ -359,27 +584,27 @@ network activity, security alerts and cyber threat insights.
 
 <div align="center">
 
-### Data Structures & Algorithms
+### 🧩 Data Structures & Algorithms
 
 ⬇️
 
-### Full-Stack Development
+### 🌐 Full-Stack Development
 
 ⬇️
 
-### Machine Learning
+### 🤖 Machine Learning
 
 ⬇️
 
-### AI-Powered Applications
+### 🧠 AI-Powered Applications
 
 ⬇️
 
-### Backend & System Design
+### ⚙️ Backend & System Design
 
 ⬇️
 
-### Building Better Software 🚀
+### 🚀 Building Better Software
 
 </div>
 
@@ -390,8 +615,11 @@ network activity, security alerts and cyber threat insights.
 <div align="center">
 
 ### Software Engineering
+
 ### AI / ML
+
 ### Data Science
+
 ### Full-Stack Development
 
 <br>
@@ -407,15 +635,24 @@ network activity, security alerts and cyber threat insights.
 <div align="center">
 
 <a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://linkedin.com/in/rochita-gude">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="mailto:rochitagude@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
 </a>
 
 </div>
@@ -428,7 +665,10 @@ network activity, security alerts and cyber threat insights.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
-```
