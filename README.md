@@ -201,18 +201,18 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 ---
 
-# 🏆 Official GitHub Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
 <a href="https://github.com/rochita-06?tab=achievements">
-  <img src="https://github-readme-tech-stack.vercel.app/api/badge?name=Pull%20Shark&logo=github&color=0366d6" width="105" alt="Pull Shark Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge-pull-shark-default.png" width="90" alt="Pull Shark Badge" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/yolo.png" width="105" alt="YOLO Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge-yolo-default.png" width="90" alt="YOLO Badge" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/quickdraw.png" width="105" alt="Quickdraw Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge-quickdraw-default.png" width="90" alt="Quickdraw Badge" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/pair-extraordinaire.png" width="105" alt="Pair Extraordinaire Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge-pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire Badge" />
 </a>
 
 </div>
