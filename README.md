@@ -1,54 +1,35 @@
 <!-- ========================================================= -->
-<!--                 ROCHITA GUDE | GITHUB                    -->
+<!--                  ROCHITA GUDE | GITHUB                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                    ANIMATED HERO                         -->
-<!-- ========================================================= -->
-
 <img
   src="./assets/coding.gif.png"
   width="100%"
-  alt="Rochita coding in a pixel art workspace"
+  alt="Rochita coding"
 />
 
 <br><br>
 
-<h1>👋 Hey, I'm Rochita Gude</h1>
+# 👋 Hey, I'm Rochita Gude
 
-<h3>Computer Science (Data Science) Undergraduate</h3>
+### 🧑‍💻 Computer Science (Data Science) Undergraduate
 
-<p>
-  <b>Software Developer</b>
-  &nbsp; • &nbsp;
-  <b>AI Explorer</b>
-  &nbsp; • &nbsp;
-  <b>Data Science Enthusiast</b>
-</p>
+**Software Developer** • **AI Explorer** • **Data Science Enthusiast**
 
 <br>
 
 <a href="https://github.com/rochita-06">
-<img
-  src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rochita-gude">
-<img
-  src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+<img src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rochitagude@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -62,121 +43,38 @@
 
 ---
 
-# 🧠 About Me
+## 🧑‍💻 About Me
 
-<div align="center">
+I'm a Computer Science (Data Science) undergraduate at **VNR VJIET**, interested in building practical software, AI-powered applications, and data-driven systems.
 
-🎓 Computer Science (Data Science) student at **VNR VJIET**
+I enjoy turning ideas into working projects — from computer vision and cybersecurity dashboards to AI systems and full-stack applications.
 
-<br>
+Currently focused on:
 
-💻 Building full-stack and AI-powered applications
-
-<br>
-
-🤖 Exploring Machine Learning and intelligent systems
-
-<br>
-
-📊 Interested in Data Analytics and Visualization
-
-<br>
-
-🌐 Developing modern web applications
-
-<br>
-
-🧩 Practicing Data Structures & Algorithms
-
-<br>
-
-🚀 Always learning, building and experimenting
-
-</div>
+- 🧩 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Development
+- 📊 Data Science & Analytics
+- ⚙️ Backend Development
+- 🚀 Building practical projects
 
 ---
 
-# ⚡ Engineering Focus
+## 🌐 Connect With Me
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://github.com/rochita-06">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<td width="33%" align="center">
+<a href="https://linkedin.com/in/rochita-gude">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 💻 Software Engineering
-
-Data Structures & Algorithms
-
-<br>
-
-Object-Oriented Programming
-
-<br>
-
-DBMS
-
-<br>
-
-Problem Solving
-
-<br>
-
-Git & GitHub
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI & Data Science
-
-Machine Learning
-
-<br>
-
-Data Analytics
-
-<br>
-
-Exploratory Data Analysis
-
-<br>
-
-Data Visualization
-
-<br>
-
-Feature Engineering
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Full-Stack Development
-
-React.js
-
-<br>
-
-Next.js
-
-<br>
-
-Node.js
-
-<br>
-
-REST APIs
-
-<br>
-
-Responsive UI
-
-</td>
-
-</tr>
-</table>
+<a href="mailto:rochitagude@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -184,9 +82,9 @@ Responsive UI
 
 # 🛠️ Tech Arsenal
 
-<div align="center">
+### 💻 Languages
 
-## 💻 Languages
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
@@ -194,59 +92,85 @@ Responsive UI
 
 `SQL` • `R`
 
+</div>
+
 ---
 
-## 🌐 Frontend
+### 🌐 Frontend
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 
+</div>
+
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
-`REST APIs`
+`REST APIs` • `FastAPI`
+
+</div>
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" />
+
+</div>
 
 ---
 
-## 🤖 Machine Learning
+### 🤖 AI / Data Science
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
+`Machine Learning`
+&nbsp; • &nbsp;
 `Data Preprocessing`
 &nbsp; • &nbsp;
 `EDA`
-&nbsp; • &nbsp;
-`Supervised Learning`
-&nbsp; • &nbsp;
-`Unsupervised Learning`
 
-<br><br>
+<br>
 
-`Neural Networks`
-&nbsp; • &nbsp;
-`Clustering`
+`Data Visualization`
 &nbsp; • &nbsp;
 `Feature Engineering`
 &nbsp; • &nbsp;
 `Model Evaluation`
 
+<br>
+
+`Computer Vision`
+&nbsp; • &nbsp;
+`NLP`
+&nbsp; • &nbsp;
+`RAG`
+&nbsp; • &nbsp;
+`Agentic AI`
+
+</div>
+
 ---
 
-## 🔧 Tools & Platforms
+### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter" />
 
 <br><br>
 
@@ -255,6 +179,8 @@ Responsive UI
 `Tableau`
 &nbsp; • &nbsp;
 `Power BI`
+&nbsp; • &nbsp;
+`n8n`
 
 </div>
 
@@ -270,81 +196,56 @@ Responsive UI
 
 <td width="50%" valign="top">
 
-<h3>😴 SleepSense</h3>
+## 😴 SleepSense
 
-<b>AI Productivity & Fatigue Monitoring System</b>
+### AI Productivity & Fatigue Monitoring
 
-<br><br>
+A computer-vision based productivity system that detects when a user is falling asleep while working.
 
-A productivity platform designed to detect fatigue using webcam-based
-computer vision while combining task management, Pomodoro sessions,
-analytics and productivity tracking.
+**Features**
 
-<br><br>
+- 👁️ Eye-state detection
+- 🚨 Fatigue alerts
+- ⏱️ Productivity monitoring
+- 📊 Session tracking
+- 🔔 Alarm system
 
-<b>Tech Stack</b>
+**Tech**
 
-<br><br>
+`Python` `OpenCV` `MediaPipe` `NumPy` `Pygame`
 
-<code>React.js</code>
-<code>TypeScript</code>
-<code>Tailwind CSS</code>
-
-<br><br>
-
-<code>MediaPipe</code>
-<code>OpenCV</code>
-<code>Node.js</code>
-
-<br><br>
-
-<code>PostgreSQL</code>
-<code>Vite</code>
-
-<br><br>
+<br>
 
 <a href="https://github.com/rochita-06/SleepSense">
-<img
-  src="https://img.shields.io/badge/VIEW%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"
-  alt="SleepSense Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🛡️ Cyber Threat Dashboard</h3>
+## 🛡️ Cyber Threat Dashboard
 
-<b>Real-Time Cybersecurity Monitoring Dashboard</b>
+### Real-Time Cybersecurity Monitoring
 
-<br><br>
+A dashboard designed to visualize cybersecurity threats, security alerts and network activity through an interactive interface.
 
-A cybersecurity dashboard designed to visualize threats,
-network activity, security alerts and cyber threat intelligence
-through an interactive interface.
+**Features**
 
-<br><br>
+- 🔐 Threat monitoring
+- 📊 Data visualization
+- 🚨 Security alerts
+- 🌐 Network insights
+- 📈 Interactive dashboard
 
-<b>Tech Stack</b>
+**Tech**
 
-<br><br>
+`React.js` `JavaScript` `Data Visualization`
 
-<code>React.js</code>
-<code>JavaScript</code>
-
-<br><br>
-
-<code>Data Visualization</code>
-<code>REST APIs</code>
-
-<br><br>
+<br>
 
 <a href="https://github.com/rochita-06/cyber-threat-dashboard-roro">
-<img
-  src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Cyber Threat Dashboard Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -355,64 +256,40 @@ through an interactive interface.
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI Resume Screening</h3>
+## 🤖 AI Resume Screening
 
-<b>Candidate Screening & Shortlisting Automation</b>
+### Candidate Screening & Shortlisting
 
-<br><br>
+An AI-powered application designed to analyze resumes and assist with automated candidate screening and shortlisting.
 
-An AI-powered system designed to analyze resumes,
-extract relevant information and assist with automated
-candidate shortlisting.
+**Tech**
 
-<br><br>
+`Python` `Machine Learning` `NLP`
 
-<code>Python</code>
-<code>Machine Learning</code>
-<code>NLP</code>
-
-<br><br>
+<br>
 
 <a href="https://github.com/rochita-06/AI-Powered-Resume-Screening-and-Candidate-Shortlisting-Automation">
-<img
-  src="https://img.shields.io/badge/VIEW%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white"
-  alt="AI Resume Screening Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🧠 Autonomous Fraud Investigation</h3>
+## 🧠 Autonomous Fraud Investigation
 
-<b>Agentic RAG & Graph Intelligence</b>
+### Agentic RAG & Graph Intelligence
 
-<br><br>
+An intelligent fraud investigation system combining agentic workflows, retrieval-augmented generation, graph intelligence and event-driven automation.
 
-An intelligent fraud investigation system combining
-agentic workflows, retrieval-augmented generation,
-graph intelligence and event-driven automation.
+**Tech**
 
-<br><br>
+`Python` `LangGraph` `RAG` `FAISS` `Neo4j` `n8n`
 
-<code>Python</code>
-<code>LangGraph</code>
-<code>RAG</code>
-
-<br><br>
-
-<code>FAISS</code>
-<code>Neo4j</code>
-<code>n8n</code>
-
-<br><br>
+<br>
 
 <a href="https://github.com/rochita-06">
-<img
-  src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -432,13 +309,11 @@ graph intelligence and event-driven automation.
 <img
   width="48%"
   src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="GitHub Stats"
 />
 
 <img
   width="48%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
 />
 
 <br><br>
@@ -446,28 +321,13 @@ graph intelligence and event-driven automation.
 <img
   width="70%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rochita-06&theme=tokyo-night&hide_border=true&area=true&custom_title=Rochita%20Gude%27s%20Contribution%20Activity"
-  width="95%"
-  alt="Contribution Activity"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
@@ -480,14 +340,14 @@ graph intelligence and event-driven automation.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 <div align="center">
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
   width="90%"
-  alt="GitHub Trophies"
+  alt="GitHub Achievements"
 />
 
 </div>
@@ -498,33 +358,11 @@ graph intelligence and event-driven automation.
 
 <div align="center">
 
-<table>
-
-<tr>
-<th>Certification</th>
-<th>Organization</th>
-<th>Year</th>
-</tr>
-
-<tr>
-<td>🐍 The Joy of Computing Using Python — Elite</td>
-<td>NPTEL, IIT Madras</td>
-<td>2024</td>
-</tr>
-
-<tr>
-<td>📊 Data Science Essentials with Python</td>
-<td>Cisco</td>
-<td>2024</td>
-</tr>
-
-<tr>
-<td>📈 Data Analytics Job Simulation</td>
-<td>Deloitte Australia</td>
-<td>2024</td>
-</tr>
-
-</table>
+| Certification | Organization | Year |
+|:---|:---|:---:|
+| 🐍 The Joy of Computing Using Python — Elite | NPTEL, IIT Madras | 2024 |
+| 📊 Data Science Essentials with Python | Cisco | 2024 |
+| 📈 Data Analytics Job Simulation | Deloitte Australia | 2024 |
 
 </div>
 
@@ -532,31 +370,27 @@ graph intelligence and event-driven automation.
 
 # 🎓 Education
 
-<div align="center">
+### 🏛️ VNR Vignana Jyothi Institute of Engineering & Technology
 
-### VNR Vignana Jyothi Institute of Engineering and Technology
-
-**B.Tech — Computer Science and Engineering (Data Science)**
+**B.Tech — Computer Science & Engineering (Data Science)**
 
 `2024 – Present` • **CGPA: 8.64**
 
-<br>
+---
 
-### Narayana Junior College
+### 🏛️ Narayana Junior College
 
 **Intermediate**
 
 `2022 – 2024` • **CGPA: 9.73**
 
-<br>
+---
 
-### Narayana High School
+### 📝 Narayana High School
 
 **School**
 
-`2022` • **CGPA: 9.8`
-
-</div>
+`2022` • **CGPA: 9.8**
 
 ---
 
@@ -586,27 +420,27 @@ graph intelligence and event-driven automation.
 
 <div align="center">
 
-### 🧩 Data Structures & Algorithms
+🧩 **Data Structures & Algorithms**
 
 ⬇️
 
-### 🌐 Full-Stack Development
+🤖 **Machine Learning & AI**
 
 ⬇️
 
-### 🤖 Machine Learning
+🌐 **Full-Stack Development**
 
 ⬇️
 
-### 🧠 AI-Powered Applications
+🧠 **Agentic AI & RAG**
 
 ⬇️
 
-### ⚙️ Backend & System Design
+⚙️ **Backend & System Design**
 
 ⬇️
 
-### 🚀 Building Better Software
+🚀 **Building Better Software**
 
 </div>
 
@@ -616,61 +450,75 @@ graph intelligence and event-driven automation.
 
 <div align="center">
 
-### Software Engineering
+**Software Engineering**
 
-### AI / ML
+&nbsp; • &nbsp;
 
-### Data Science
+**AI / ML**
 
-### Full-Stack Development
+&nbsp; • &nbsp;
 
-<br>
+**Data Science**
 
-**Build • Learn • Solve • Scale**
+&nbsp; • &nbsp;
+
+**Full-Stack Development**
+
+<br><br>
+
+`Build` • `Learn` • `Solve` • `Scale`
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 💬 Developer Philosophy
 
 <div align="center">
+
+### "Don't just learn the technology. Build something with it."
+
+<br>
+
+🧠 Learn
+
+&nbsp; → &nbsp;
+
+🛠️ Build
+
+&nbsp; → &nbsp;
+
+🐛 Break
+
+&nbsp; → &nbsp;
+
+🔧 Fix
+
+&nbsp; → &nbsp;
+
+🚀 Ship
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### ⭐ Thanks for visiting my profile!
+
+<br>
 
 <a href="https://github.com/rochita-06">
-<img
-  src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/rochita-gude">
-<img
-  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-<a href="mailto:rochitagude@gmail.com">
-<img
-  src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Gmail"
-/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build things that solve problems. Learn things that make you better."
-
-<br>
+<br><br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"
   width="100%"
-  alt="Footer"
 />
 
 </div>
