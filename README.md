@@ -9,7 +9,7 @@
 <!-- ========================================================= -->
 
 <img
-  src="./assets/coding.gif"
+  src="./assets/coding.gif.png"
   width="100%"
   alt="Rochita coding in a pixel art workspace"
 />
@@ -22,33 +22,33 @@
 
 <p>
   <b>Software Developer</b>
-  &nbsp;•&nbsp;
+  &nbsp; • &nbsp;
   <b>AI Explorer</b>
-  &nbsp;•&nbsp;
+  &nbsp; • &nbsp;
   <b>Data Science Enthusiast</b>
 </p>
 
 <br>
 
 <a href="https://github.com/rochita-06">
-  <img
-    src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://linkedin.com/in/rochita-gude">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="mailto:rochitagude@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img
+  src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
 </a>
 
 <br><br>
@@ -225,21 +225,21 @@ Responsive UI
 <br><br>
 
 `Data Preprocessing`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `EDA`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Supervised Learning`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Unsupervised Learning`
 
 <br><br>
 
 `Neural Networks`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Clustering`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Feature Engineering`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Model Evaluation`
 
 ---
@@ -251,9 +251,9 @@ Responsive UI
 <br><br>
 
 `Google Colab`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Tableau`
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 `Power BI`
 
 </div>
@@ -265,6 +265,7 @@ Responsive UI
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -337,7 +338,7 @@ through an interactive interface.
 <code>Data Visualization</code>
 <code>REST APIs</code>
 
-<br><br><br>
+<br><br>
 
 <a href="https://github.com/rochita-06/cyber-threat-dashboard-roro">
 <img
@@ -411,12 +412,13 @@ graph intelligence and event-driven automation.
 <img
   src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
   alt="GitHub"
- />
+/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
