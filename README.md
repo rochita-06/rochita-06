@@ -11,9 +11,9 @@
 
 <h2><code>Computer Science (Data Science) Undergraduate</code></h2>
 
-<!-- ANIMATED TYPEWRITER HEADER -->
+<!-- CLEAN TRANSPARENT TYPEWRITER HEADER (NO PINK BOX) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=4A154B&background=FFC0CB&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%9A%80+Software+Developer;%F0%9F%A4%96+AI+Explorer;%F0%9F%93%8A+Data+Science+Enthusiast" alt="Pastel Pink Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=C77DFF&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%80+Software+Developer;%F0%9F%A4%96+AI+Explorer;%F0%9F%93%8A+Data+Science+Enthusiast" alt="Pastel Animated Header" />
 </p>
 
 <br>
