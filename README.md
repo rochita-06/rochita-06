@@ -201,12 +201,19 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 ---
 
-# 🏆 Achievements & Badges
+# 🏆 Official GitHub Achievements
 
 <div align="center">
 
-<!-- RELIABLE TROPHY MIRROR -->
-<img src="https://github-profile-trophies.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies" />
+<a href="https://github.com/rochita-06?tab=achievements">
+  <img src="https://github-readme-tech-stack.vercel.app/api/badge?name=Pull%20Shark&logo=github&color=0366d6" width="105" alt="Pull Shark Badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/yolo.png" width="105" alt="YOLO Badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/quickdraw.png" width="105" alt="Quickdraw Badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yadav-ashish/yadav-ashish/main/assets/pair-extraordinaire.png" width="105" alt="Pair Extraordinaire Badge" />
+</a>
 
 </div>
 
