@@ -18,8 +18,8 @@
 
 <br>
 
-<!-- CODING GIF / BANNER -->
-<img src="./assets/coding.gif.png" width="95%" style="border-radius: 10px;" alt="Developer Workspace Banner" />
+<!-- CODING VIDEO BANNER -->
+<img src="./assets/coding.gif.mp4" width="95%" style="border-radius: 10px;" alt="Cozy Developer Workspace Animation" />
 
 <br><br>
 
