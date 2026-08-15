@@ -4,6 +4,46 @@
 
 <div align="center">
 
+<!-- ========================================================= -->
+<!--              ANIMATED PURPLE HEADER                      -->
+<!-- ========================================================= -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=&fontSize=0&animation=twinkling&color=0:7F00FF,50:9B5DE5,100:C77DFF"
+  width="100%"
+  alt="Animated purple header"
+/>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    INTRO                                  -->
+<!-- ========================================================= -->
+
+<h1>
+  👋 Hey, I'm <span style="color:#4A90E2;">Rochita Gude</span>
+</h1>
+
+<hr>
+
+<h2>
+  <code>Computer Science (Data Science) Undergraduate</code>
+</h2>
+
+<p>
+  <b>Software Developer</b>
+  &nbsp; | &nbsp;
+  <b>AI Explorer</b>
+  &nbsp; | &nbsp;
+  <b>Data Science Enthusiast</b>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    CODING GIF                             -->
+<!-- ========================================================= -->
+
 <img
   src="./assets/coding.gif.png"
   width="100%"
@@ -12,79 +52,125 @@
 
 <br><br>
 
-# 👋 Hey, I'm Rochita Gude
+</div>
 
-### 🧑‍💻 Computer Science (Data Science) Undergraduate
+---
 
-**Software Developer** • **AI Explorer** • **Data Science Enthusiast**
+# 🧑‍💻 About Me
 
-<br>
+<div align="center">
 
-<a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/GitHub-rochita--06-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/rochita-gude">
-<img src="https://img.shields.io/badge/LinkedIn-Rochita%20Gude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rochitagude@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I'm a **Computer Science undergraduate specializing in Data Science**
+at **VNR VJIET**, passionate about building intelligent,
+practical and visually engaging software.
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=rochita-06&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge"
-  alt="Profile Views"
-/>
+💻 Building full-stack and AI-powered applications
+
+<br><br>
+
+🤖 Exploring Machine Learning and intelligent systems
+
+<br><br>
+
+📊 Interested in Data Analytics and Visualization
+
+<br><br>
+
+🌐 Developing modern web applications
+
+<br><br>
+
+🧩 Practicing Data Structures & Algorithms
+
+<br><br>
+
+🚀 Always learning, building and experimenting
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a Computer Science (Data Science) undergraduate at **VNR VJIET**, interested in building practical software, AI-powered applications, and data-driven systems.
-
-I enjoy turning ideas into working projects — from computer vision and cybersecurity dashboards to AI systems and full-stack applications.
-
-Currently focused on:
-
-- 🧩 Data Structures & Algorithms
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Development
-- 📊 Data Science & Analytics
-- ⚙️ Backend Development
-- 🚀 Building practical projects
-
----
-
-## 🌐 Connect With Me
+# ⚡ What I Work On
 
 <div align="center">
 
-<a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<table>
+<tr>
 
-<a href="https://linkedin.com/in/rochita-gude">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<td width="33%" align="center">
 
-<a href="mailto:rochitagude@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 💻 Software
+
+`C++`
+
+`Python`
+
+`Java`
+
+`JavaScript`
+
+`DSA`
+
+`OOP`
+
+`DBMS`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🤖 AI & Data
+
+`Machine Learning`
+
+`Data Science`
+
+`EDA`
+
+`NLP`
+
+`Computer Vision`
+
+`RAG`
+
+`Agentic AI`
+
+</td>
+
+<td width="33%" align="center">
+
+## 🌐 Development
+
+`React`
+
+`Next.js`
+
+`Node.js`
+
+`REST APIs`
+
+`FastAPI`
+
+`MongoDB`
+
+`MySQL`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
@@ -92,47 +178,27 @@ Currently focused on:
 
 `SQL` • `R`
 
-</div>
-
----
+<br><br>
 
 ### 🌐 Frontend
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-
-</div>
-
----
-
-### ⚙️ Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
-`REST APIs` • `FastAPI`
+### ⚙️ Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
----
+<br><br>
 
 ### 🗄️ Databases
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" />
 
-</div>
-
----
+<br><br>
 
 ### 🤖 AI / Data Science
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
@@ -146,14 +212,6 @@ Currently focused on:
 
 <br>
 
-`Data Visualization`
-&nbsp; • &nbsp;
-`Feature Engineering`
-&nbsp; • &nbsp;
-`Model Evaluation`
-
-<br>
-
 `Computer Vision`
 &nbsp; • &nbsp;
 `NLP`
@@ -162,13 +220,9 @@ Currently focused on:
 &nbsp; • &nbsp;
 `Agentic AI`
 
-</div>
+<br><br>
 
----
-
-### 🧰 Tools & Platforms
-
-<div align="center">
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter" />
 
@@ -196,56 +250,112 @@ Currently focused on:
 
 <td width="50%" valign="top">
 
-## 😴 SleepSense
+<h2>😴 SleepSense</h2>
 
-### AI Productivity & Fatigue Monitoring
+<h3>AI Productivity & Fatigue Monitoring</h3>
 
-A computer-vision based productivity system that detects when a user is falling asleep while working.
-
-**Features**
-
-- 👁️ Eye-state detection
-- 🚨 Fatigue alerts
-- ⏱️ Productivity monitoring
-- 📊 Session tracking
-- 🔔 Alarm system
-
-**Tech**
-
-`Python` `OpenCV` `MediaPipe` `NumPy` `Pygame`
+<p>
+A computer-vision based productivity system that detects
+when a user is falling asleep while working.
+</p>
 
 <br>
 
+<b>Features</b>
+
+<br><br>
+
+👁️ Eye-state detection
+
+<br>
+
+🚨 Fatigue alerts
+
+<br>
+
+⏱️ Productivity monitoring
+
+<br>
+
+🔔 Alarm system
+
+<br>
+
+📊 Session tracking
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>Python</code>
+<code>OpenCV</code>
+<code>MediaPipe</code>
+<code>NumPy</code>
+<code>Pygame</code>
+
+<br><br>
+
 <a href="https://github.com/rochita-06/SleepSense">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛡️ Cyber Threat Dashboard
+<h2>🛡️ Cyber Threat Dashboard</h2>
 
-### Real-Time Cybersecurity Monitoring
+<h3>Real-Time Cybersecurity Monitoring</h3>
 
-A dashboard designed to visualize cybersecurity threats, security alerts and network activity through an interactive interface.
-
-**Features**
-
-- 🔐 Threat monitoring
-- 📊 Data visualization
-- 🚨 Security alerts
-- 🌐 Network insights
-- 📈 Interactive dashboard
-
-**Tech**
-
-`React.js` `JavaScript` `Data Visualization`
+<p>
+A cybersecurity dashboard designed to visualize threats,
+security alerts, network activity and cyber intelligence.
+</p>
 
 <br>
 
+<b>Features</b>
+
+<br><br>
+
+🔐 Threat monitoring
+
+<br>
+
+📊 Data visualization
+
+<br>
+
+🚨 Security alerts
+
+<br>
+
+🌐 Network insights
+
+<br>
+
+📈 Interactive dashboard
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>React.js</code>
+<code>JavaScript</code>
+<code>Data Visualization</code>
+
+<br><br>
+
 <a href="https://github.com/rochita-06/cyber-threat-dashboard-roro">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 </td>
@@ -256,40 +366,69 @@ A dashboard designed to visualize cybersecurity threats, security alerts and net
 
 <td width="50%" valign="top">
 
-## 🤖 AI Resume Screening
+<h2>🤖 AI Resume Screening</h2>
 
-### Candidate Screening & Shortlisting
+<h3>Candidate Screening & Shortlisting</h3>
 
-An AI-powered application designed to analyze resumes and assist with automated candidate screening and shortlisting.
-
-**Tech**
-
-`Python` `Machine Learning` `NLP`
+<p>
+An AI-powered application designed to analyze resumes
+and assist with automated candidate screening.
+</p>
 
 <br>
 
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>Python</code>
+<code>Machine Learning</code>
+<code>NLP</code>
+
+<br><br>
+
 <a href="https://github.com/rochita-06/AI-Powered-Resume-Screening-and-Candidate-Shortlisting-Automation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 Autonomous Fraud Investigation
+<h2>🧠 Autonomous Fraud Investigation</h2>
 
-### Agentic RAG & Graph Intelligence
+<h3>Agentic RAG & Graph Intelligence</h3>
 
-An intelligent fraud investigation system combining agentic workflows, retrieval-augmented generation, graph intelligence and event-driven automation.
-
-**Tech**
-
-`Python` `LangGraph` `RAG` `FAISS` `Neo4j` `n8n`
+<p>
+An intelligent fraud investigation system combining
+agentic workflows, RAG, graph intelligence and
+event-driven automation.
+</p>
 
 <br>
 
+<b>Tech Stack</b>
+
+<br><br>
+
+<code>Python</code>
+<code>LangGraph</code>
+<code>RAG</code>
+
+<br>
+
+<code>FAISS</code>
+<code>Neo4j</code>
+<code>n8n</code>
+
+<br><br>
+
 <a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 </td>
@@ -307,47 +446,64 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 <div align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="GitHub Stats"
 />
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true"
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
 />
 
 <br><br>
 
 <img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true"
+width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/rochita-06/rochita-06/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
+src="https://github-readme-activity-graph.vercel.app/graph?username=rochita-06&theme=tokyo-night&hide_border=true&area=true&custom_title=Rochita%20Gude%27s%20Contribution%20Activity"
+width="95%"
+alt="Contribution Activity"
 />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-  width="90%"
-  alt="GitHub Achievements"
+src="https://raw.githubusercontent.com/rochita-06/rochita-06/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+width="90%"
+alt="GitHub Trophies"
 />
 
 </div>
@@ -358,11 +514,33 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 
 <div align="center">
 
-| Certification | Organization | Year |
-|:---|:---|:---:|
-| 🐍 The Joy of Computing Using Python — Elite | NPTEL, IIT Madras | 2024 |
-| 📊 Data Science Essentials with Python | Cisco | 2024 |
-| 📈 Data Analytics Job Simulation | Deloitte Australia | 2024 |
+<table>
+
+<tr>
+<th>Certification</th>
+<th>Organization</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>🐍 The Joy of Computing Using Python — Elite</td>
+<td>NPTEL, IIT Madras</td>
+<td>2024</td>
+</tr>
+
+<tr>
+<td>📊 Data Science Essentials with Python</td>
+<td>Cisco</td>
+<td>2024</td>
+</tr>
+
+<tr>
+<td>📈 Data Analytics Job Simulation</td>
+<td>Deloitte Australia</td>
+<td>2024</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -370,27 +548,37 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 
 # 🎓 Education
 
-### 🏛️ VNR Vignana Jyothi Institute of Engineering & Technology
+<div align="center">
 
-**B.Tech — Computer Science & Engineering (Data Science)**
+<h3>🏛️ VNR Vignana Jyothi Institute of Engineering & Technology</h3>
 
-`2024 – Present` • **CGPA: 8.64**
+<b>B.Tech — Computer Science & Engineering (Data Science)</b>
 
----
+<br>
 
-### 🏛️ Narayana Junior College
+<code>2024 – Present</code> • <b>CGPA: 8.64</b>
 
-**Intermediate**
+<br><br>
 
-`2022 – 2024` • **CGPA: 9.73**
+<h3>🏛️ Narayana Junior College</h3>
 
----
+<b>Intermediate</b>
 
-### 📝 Narayana High School
+<br>
 
-**School**
+<code>2022 – 2024</code> • <b>CGPA: 9.73</b>
 
-`2022` • **CGPA: 9.8**
+<br><br>
+
+<h3>📝 Narayana High School</h3>
+
+<b>School</b>
+
+<br>
+
+<code>2022</code> • <b>CGPA: 9.8</b>
+
+</div>
 
 ---
 
@@ -399,17 +587,25 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 <div align="center">
 
 `Data Structures & Algorithms`
+
 &nbsp; • &nbsp;
+
 `Object-Oriented Programming`
+
 &nbsp; • &nbsp;
+
 `DBMS`
 
 <br><br>
 
 `Operating Systems`
+
 &nbsp; • &nbsp;
+
 `Computer Networks`
+
 &nbsp; • &nbsp;
+
 `Problem Solving`
 
 </div>
@@ -420,27 +616,27 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 
 <div align="center">
 
-🧩 **Data Structures & Algorithms**
+### 🧩 Data Structures & Algorithms
 
 ⬇️
 
-🤖 **Machine Learning & AI**
+### 🤖 Machine Learning & AI
 
 ⬇️
 
-🌐 **Full-Stack Development**
+### 🌐 Full-Stack Development
 
 ⬇️
 
-🧠 **Agentic AI & RAG**
+### 🧠 Agentic AI & RAG
 
 ⬇️
 
-⚙️ **Backend & System Design**
+### ⚙️ Backend & System Design
 
 ⬇️
 
-🚀 **Building Better Software**
+### 🚀 Building Better Software
 
 </div>
 
@@ -450,23 +646,17 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 
 <div align="center">
 
-**Software Engineering**
+### Software Engineering
 
-&nbsp; • &nbsp;
+### AI / ML
 
-**AI / ML**
+### Data Science
 
-&nbsp; • &nbsp;
+### Full-Stack Development
 
-**Data Science**
+<br>
 
-&nbsp; • &nbsp;
-
-**Full-Stack Development**
-
-<br><br>
-
-`Build` • `Learn` • `Solve` • `Scale`
+**Build • Learn • Solve • Scale**
 
 </div>
 
@@ -511,14 +701,17 @@ An intelligent fraud investigation system combining agentic workflows, retrieval
 <br>
 
 <a href="https://github.com/rochita-06">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer"
+width="100%"
+alt="Footer"
 />
 
 </div>
