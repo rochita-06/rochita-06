@@ -11,10 +11,9 @@
 
 <h2><code>Computer Science (Data Science) Undergraduate</code></h2>
 
-<p>
-  <b>🚀 Software Developer</b> &nbsp;|&nbsp; 
-  <b>🤖 AI Explorer</b> &nbsp;|&nbsp; 
-  <b>📊 Data Science Enthusiast</b>
+<!-- ANIMATED PASTEL PINK TYPEWRITER HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=5B1A57&background=FFC0CB&center=true&vCenter=true&width=550&height=50&lines=🚀+Software+Developer;🤖+AI+Explorer;📊+Data+Science+Enthusiast" alt="Pastel Pink Animated Header" />
 </p>
 
 <br>
