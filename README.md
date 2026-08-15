@@ -191,30 +191,11 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-two.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rochita-06&theme=tokyo-night&hide_border=true&area=true&custom_title=Rochita%20Gude%27s%20Contribution%20Activity" width="95%" alt="Contribution Activity" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/rochita-06/rochita-06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -224,7 +205,8 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies" />
+<!-- RELIABLE TROPHY MIRROR -->
+<img src="https://github-profile-trophies.vercel.app/?username=rochita-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies" />
 
 </div>
 
