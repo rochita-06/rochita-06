@@ -195,12 +195,12 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-two.vercel.app/api?username=rochita-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=rochita-06&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rochita-06&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
