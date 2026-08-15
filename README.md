@@ -11,7 +11,7 @@
 
 <h2><code>Computer Science (Data Science) Undergraduate</code></h2>
 
-<!-- ANIMATED TYPEWRITER HEADER (URL-ENCODED SAFE) -->
+<!-- ANIMATED TYPEWRITER HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=4A154B&background=FFC0CB&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%9A%80+Software+Developer;%F0%9F%A4%96+AI+Explorer;%F0%9F%93%8A+Data+Science+Enthusiast" alt="Pastel Pink Animated Header" />
 </p>
@@ -57,9 +57,10 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 
 ### 💻 Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,mysql,mongodb,postgres,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,mysql,mongodb,postgres,firebase,supabase" />
 </p>
-<code>SQL</code> • <code>R</code> • <code>DBMS</code>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=database&logoColor=white" />
 
 <br><br>
 
@@ -67,23 +68,30 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express,fastapi" />
 </p>
-<code>REST APIs</code> • <code>Microservices</code>
+<img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white" />
 
 <br><br>
 
 ### 🤖 AI, Machine Learning & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch" />
 </p>
-<code>Machine Learning</code> • <code>Computer Vision</code> • <code>NLP</code> • <code>RAG</code> • <code>Agentic AI</code> • <code>EDA</code>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-FF4500?style=flat-square&logo=robot&logoColor=white" />
 
 <br><br>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & Data Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
-<code>Google Colab</code> • <code>Tableau</code> • <code>Power BI</code> • <code>n8n</code>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
 
 </div>
 
@@ -107,7 +115,10 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
         <li>⏱️ Session Productivity Tracking</li>
       </ul>
       <b>Tech Stack:</b><br>
-      <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>NumPy</code> <code>Pygame</code>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <br><br>
       <div align="center">
         <a href="https://github.com/rochita-06/SleepSense">
@@ -127,7 +138,10 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
         <li>🌐 Network Insight Tracking</li>
       </ul>
       <b>Tech Stack:</b><br>
-      <code>React.js</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Chart.js</code>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
       <br><br>
       <div align="center">
         <a href="https://github.com/rochita-06/cyber-threat-dashboard-roro">
@@ -143,7 +157,9 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
       <p>An NLP and ML-driven workflow designed to extract, rank, and evaluate resume candidates automatically based on job criteria.</p>
       <br>
       <b>Tech Stack:</b><br>
-      <code>Python</code> <code>Machine Learning</code> <code>NLP</code> <code>Pandas</code>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <br><br>
       <div align="center">
         <a href="https://github.com/rochita-06/AI-Powered-Resume-Screening-and-Candidate-Shortlisting-Automation">
@@ -157,7 +173,10 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
       <p>An intelligent anti-fraud investigation engine integrating autonomous agent workflows, knowledge graphs, and event-driven pipelines.</p>
       <br>
       <b>Tech Stack:</b><br>
-      <code>Python</code> <code>LangGraph</code> <code>RAG</code> <code>FAISS</code> <code>Neo4j</code> <code>n8n</code>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
       <br><br>
       <div align="center">
         <a href="https://github.com/rochita-06">
