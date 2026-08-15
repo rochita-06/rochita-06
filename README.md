@@ -206,13 +206,13 @@ I am a **Computer Science undergraduate specializing in Data Science** at **VNR 
 <div align="center">
 
 <a href="https://github.com/rochita-06?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/badge-pull-shark-default.png" width="90" alt="Pull Shark Badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/badge-yolo-default.png" width="90" alt="YOLO Badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/badge-quickdraw-default.png" width="90" alt="Quickdraw Badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/badge-pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire Badge" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0075FF?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Achievement-YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
